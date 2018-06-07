@@ -1,0 +1,1 @@
+(function($){if($)$.onloadjson({name:"Extended Attribute list",parent:"88086B01-C9E1-11D4-9552-00909276EE28"});})(document.jdata.activeScript());

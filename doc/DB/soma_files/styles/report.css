@@ -1,0 +1,523 @@
+.imagefile {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.diagram {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.titledcontainer {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.tl1 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 14pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #365F91;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl2 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 13pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #4F81BD;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl3 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #4F81BD;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl4 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 11pt;
+    font-style: Italic;
+    font-weight: 700;
+    color: #4F81BD;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl5 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #243F60;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl6 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 11pt;
+    font-style: Italic;
+    font-weight: 400;
+    color: #243F60;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl7 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 11pt;
+    font-style: Italic;
+    font-weight: 400;
+    color: #243F60;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl8 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 10pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #404040;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.tl9 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 10pt;
+    font-style: Italic;
+    font-weight: 400;
+    color: #404040;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.document-header {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.document-footer {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.document-header-left {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+}
+
+.document-header-center {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+}
+
+.document-header-right {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: right;
+}
+
+.document-footer-left {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+}
+
+.document-footer-center {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+}
+
+.document-footer-right {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: right;
+}
+
+.document {
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.freetext {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.listview {
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #778899;
+    border-width: 1px 1px 1px 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+.toc-title {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Cambria;
+    font-size: 14pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #365F91;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.coverpage-companyname {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #4F81BD;
+    border-width: 0px 0px 0px 4px;
+    font-family: Cambria;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 15px 0px 15px 10px;
+}
+
+.coverpage-reporttitle {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #4F81BD;
+    border-width: 0px 0px 0px 4px;
+    font-family: Cambria;
+    font-size: 40pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #4F81BD;
+    text-align: left;
+    padding: 0px 0px 0px 10px;
+}
+
+.coverpage-reportsubtitle {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #4F81BD;
+    border-width: 0px 0px 0px 4px;
+    font-family: Cambria;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 10px 0px 10px 10px;
+}
+
+.toc-entry {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.card {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.card-label {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #000000;
+    text-align: left;
+    padding: 3px 3px 3px 3px;
+}
+
+.card-value {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 3px 3px 3px 3px;
+}
+
+.card-listview {
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #778899;
+    border-width: 1px 1px 1px 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+.list {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.list-header {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #000000;
+    text-align: left;
+    padding: 3px 3px 3px 3px;
+}
+
+.list-value {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 3px 3px 3px 3px;
+}
+
+.list-listview {
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #778899;
+    border-width: 1px 1px 1px 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+.propertypresenter {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.propertypresenter-value {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+
+.matrix {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.matrix-listview {
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #778899;
+    border-width: 1px 1px 1px 1px;
+    margin: 0px 0px 10px 0px;
+}
+
+.matrix-rowheader {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #000000;
+    text-align: left;
+    padding: 3px 3px 3px 3px;
+}
+
+.matrix-columnheader {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #000000;
+    text-align: center;
+    padding: 3px 3px 3px 3px;
+}
+
+.matrix-celltextpresenter {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 13pt;
+    font-style: Normal;
+    font-weight: 700;
+    color: #000000;
+    text-align: center;
+    padding: 3px 3px 3px 3px;
+}
+
+.textfile {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+}
+
+.textfilecontent {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #365F91;
+    border-width: 0px;
+    font-family: Calibri;
+    font-size: 11pt;
+    font-style: Normal;
+    font-weight: 400;
+    color: #000000;
+    text-align: left;
+    padding: 2px 2px 2px 2px;
+}
+

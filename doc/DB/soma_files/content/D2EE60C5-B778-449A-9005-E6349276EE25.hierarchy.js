@@ -1,0 +1,1 @@
+(function($){if($)$.onloadjson({name:"Diagram soma",parent:"88086B01-C9E1-11D4-9552-00909276EE26"});})(document.jdata.activeScript());

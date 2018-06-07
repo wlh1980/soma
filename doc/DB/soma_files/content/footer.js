@@ -1,0 +1,3 @@
+(function($){if($)$.onloadjson(
+{HTMLPresenter:{html:'<table class="Footer" CELLSPACING=0 CELLPADDING=0 WIDTH="100%"><tr><td WIDTH="100%" HEIGHT="18"><table CELLSPACING=0 CELLPADDING=0 WIDTH="100%"><tr><td class="Title" width="90%">soma for Physical Data Model \'REMOVE_POS\' (PHYSICAL_DATA_MODEL_1)</td><td class="Title" width="*" align="right">2018/6/6</td></tr></table></td></tr></table>',head:'<style type="text/css">.Footer { BORDER: 1px solid #A0B3C6; PADDING: 0px; BACKGROUND: #DEE7FA; }.Title {  FONT-FAMILY: Times New Romain, Times, Geneva; FONT-SIZE: 10pt; FONT-WEIGHT: normal;  COLOR: #000000; VERTICAL-ALIGN: middle; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; }</style>'}}
+);})(document.jdata.activeScript());
